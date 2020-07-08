@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DHIFix:jar">
+    <output-path>$PROJECT_DIR$/../DHIFix_jar</output-path>
+    <root id="archive" name="DHIFix.jar">
+      <element id="module-output" name="DHIFix" />
+    </root>
+  </artifact>
+</component>

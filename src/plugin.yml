@@ -1,0 +1,5 @@
+name: DHIFIX
+version: '1.0'
+main: me.cristike.dhifix.Main
+author: Cristike
+api-version: 1.16
